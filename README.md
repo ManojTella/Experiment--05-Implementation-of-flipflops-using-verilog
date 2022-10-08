@@ -108,14 +108,16 @@ Q(t+1)=T′Q(t)+TQ(t)′
 
 3.Find Rtl logic and timing diagram for all flipflops.
 
-4.end the program.
+4.End the program.
 
 
 
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
+
 Developed by: Manoj Guna Sundar Tella.
+
 RegisterNumber:  212221240026.
 */
 ### Program1:
